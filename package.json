@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/18F/18f-cli/issues"
   },
-  "files": ["app", "license", "readme"],
+  "files": ["app", "license", "readme", "languages", "gitignores"],
   "homepage": "https://github.com/18F/18f-cli#readme",
   "dependencies": {
     "axios": "^0.15.3",
